@@ -1,1 +1,2 @@
 # Financial-modeling
+Built a detailed financial model for ITC Limited, including historical financial analysis, ratio analysis, and forward-looking 3-statement projections based on explicit operating assumptions. The model incorporates DCF valuation, WACC and beta calculation, and comparable company valuation, culminating in a football field analysis to assess intrinsic value versus market price. The project focuses on understanding business fundamentals, cash flow drivers, and valuation outcomes under different scenarios.
